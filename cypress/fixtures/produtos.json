@@ -1,0 +1,30 @@
+[
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "M",
+        "cor": "Brown",
+        "quantidade": 1
+    },
+    
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 1
+    },
+    
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho": "33",
+        "cor": "Black",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "32",
+        "cor": "Blue",
+        "quantidade": 1
+    }
+
+    ]
